@@ -1,7 +1,7 @@
 # Proyecto-de-Final-IA
 
-## Nombre
+## Nombre: Moises alexander 
 
-## Matrícula
+## Matrícula: 22-SISN-2-032
 
-## Proyecto
+## Proyecto: Generador de Fondos de Imagenes
